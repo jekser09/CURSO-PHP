@@ -1,0 +1,16 @@
+{
+    "name": "jekse/09-api-productos",
+    "description": "Api de pruebas productos",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Johand Castro",
+            "email": "jekser09@gmail.com"
+        }
+    ],
+    "require": {}
+}
